@@ -1,0 +1,23 @@
+body{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.week .week-number {
+    background-color:#dcdde1;
+}
+
+.week .slides {
+    background-color: #DFCCFB;
+}
+
+.week .starter-code {
+    background-color:#AAC4FF;
+}
+
+.week .checkoff-form {
+    background-color: #FFD966;
+}
+.week .solution {
+    background-color: #A6FF96;
+}
